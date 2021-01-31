@@ -1,3 +1,1 @@
-
-const a=300
-const b=800
+const a=400
